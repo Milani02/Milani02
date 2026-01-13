@@ -26,10 +26,3 @@ Network Diagnostics Tool: Scanner de rede desenvolvido em Python para análise d
 ⚠️ Ética e Compromisso
 Minha experiência em Red Team é aplicada estritamente de forma ética e profissional. Utilizo o conhecimento de simulação de adversários para auxiliar empresas na construção de ambientes mais seguros e processos automatizados resilientes.
 
----
-
-### 📊 Atividade no GitHub
-
-![Stats de Milani](https://github-readme-stats.vercel.app/api?username=Milani02&show_icons=true&theme=radical)
-
-![Linguagens de Milani](https://github-readme-stats.vercel.app/api/top-langs/?username=Milani02&layout=compact&theme=radical)
