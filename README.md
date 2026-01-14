@@ -1,28 +1,55 @@
-🛡️ Backend Developer | Red Team Specialist (Security-Minded)
-"The best defense is a thorough understanding of the offense."
+# 🛡️ Backend Developer | Red Team Specialist (Security-Minded)
+*"The best defense is a thorough understanding of the offense."*
 
-Sou um desenvolvedor focado em Backend (Python & FastAPI) e Automação (n8n) com um background sólido em Red Team. Minha especialidade é construir aplicações de alta performance integrando conceitos de segurança ofensiva para garantir que o software seja resiliente a ataques desde a concepção.
+---
 
-⚔️ Arsenal Técnico (Full-Stack Security & Dev)
-Desenvolvimento & Automação:
+### 👤 Sobre Mim
+Sou um desenvolvedor focado em **Backend (Python & FastAPI)** e **Automação (n8n)** com um background sólido em **Red Team**. Minha especialidade é construir aplicações de alta performance integrando conceitos de segurança ofensiva para garantir que o software seja resiliente a ataques desde a concepção.
 
-<div style="display: inline_block"> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"> <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> </div>
+---
 
-Segurança Ofensiva & Infraestrutura:
+### 📊 Estatísticas de Contribuição
 
-<div style="display: inline_block"> <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"> <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> </div>
 
-Foco em Segurança: OWASP Top 10, Network Scanning (Sockets), Pentesting, OSINT e Hardening de APIs.
+![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Milani02&show_icons=true&theme=dracula)
 
-Foco em Dev: RESTful APIs, Automação de Workflows (n8n), Webhooks e Integração de Sistemas.
+![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Milani02&layout=compact&theme=dracula)
 
-🎯 Projetos Recentes em Destaque
-Enterprise Chatbot - n8n: Solução corporativa de automação unindo JS e orquestração de backend.
+---
 
-Library Cloud API: API robusta desenvolvida com FastAPI, focada em segurança de dados e integração externa.
+### ⚔️ Arsenal Técnico
 
-Network Diagnostics Tool: Scanner de rede desenvolvido em Python para análise de conectividade e segurança de portas.
+**🌐 Conecte-se e Redes Sociais:**
+<p align="left">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-milani-546b34218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:andremilani992@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/andremilani_02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
-⚠️ Ética e Compromisso
-Minha experiência em Red Team é aplicada estritamente de forma ética e profissional. Utilizo o conhecimento de simulação de adversários para auxiliar empresas na construção de ambientes mais seguros e processos automatizados resilientes.
+**🚀 Desenvolvimento & Automação:**
+- **Linguagens:** Python, JavaScript (Node.js), Bash.
+- **Frameworks/Ferramentas:** FastAPI, n8n, Webhooks, RESTful APIs.
+- **Banco de Dados:** PostgreSQL, Redis.
+- **Infra:** Linux (Debian/Arch), Docker, Git.
 
+**🕵️ Segurança Ofensiva (Red Team Focus):**
+- **Metodologias:** OWASP Top 10, OSINT, Network Scanning.
+- **Técnicas:** Pentesting de APIs, Hardening de Servidores, Automação de Scans de Vulnerabilidade.
+
+---
+
+### 🎯 Projetos em Destaque
+- **Enterprise Chatbot - n8n:** Orquestração de fluxos corporativos complexos com integração de APIs e JS.
+- **Library Cloud API:** Backend robusto em FastAPI com camadas de segurança e autenticação JWT.
+- **Network Diagnostics Tool:** Ferramenta em Python para análise de segurança de portas e diagnósticos de rede.
+
+---
+
+### ⚠️ Compromisso Ético
+Atuo estritamente dentro da legalidade e ética profissional. Utilizo meu conhecimento em simulação de adversários para construir defesas mais fortes e processos resilientes para empresas e parceiros.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
