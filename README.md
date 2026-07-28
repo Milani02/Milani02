@@ -26,10 +26,15 @@ Sou um desenvolvedor focado em **Backend (Python & FastAPI)** e **Automação (n
   <a href="https://instagram.com/andremilani_02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-**🚀 Desenvolvimento & Automação:**
-- **Linguagens:** Python, JavaScript (Node.js), Bash.
-- **Frameworks/Ferramentas:** FastAPI, n8n, Webhooks, RESTful APIs.
-- **Banco de Dados:** PostgreSQL, Redis.
+**🎨 Frontend:**
+- **Frameworks:** React, Next.js, Vite.
+- **Estilização/UI:** Tailwind CSS, shadcn/ui (Radix), Framer Motion.
+- **3D/Interativo:** Three.js (React Three Fiber).
+
+**🚀 Backend & Automação:**
+- **Linguagens:** Python, JavaScript/TypeScript (Node.js), Bash.
+- **Frameworks/Ferramentas:** FastAPI, Flask, n8n, Webhooks, RESTful APIs.
+- **Banco de Dados:** Supabase (PostgreSQL), SQLite, PostgreSQL, Redis.
 - **Infra:** Linux (Debian/Arch), Docker, Git.
 
 **🕵️ Segurança Ofensiva (Red Team Focus):**
@@ -39,9 +44,12 @@ Sou um desenvolvedor focado em **Backend (Python & FastAPI)** e **Automação (n
 ---
 
 ### 🎯 Projetos em Destaque
-- **Enterprise Chatbot - n8n:** Orquestração de fluxos corporativos complexos com integração de APIs e JS.
-- **Library Cloud API:** Backend robusto em FastAPI com camadas de segurança e autenticação JWT.
-- **Network Diagnostics Tool:** Ferramenta em Python para análise de segurança de portas e diagnósticos de rede.
+- **[Hub Biodinâmica](https://github.com/Milani02/hub-biodinamica):** Portal central de acesso a sistemas internos e institucionais, em Next.js.
+- **[Portal do Colaborador](https://github.com/Milani02/portal-do-colaborador):** Dashboards por perfil (colaborador/gestor/RH/admin) com Supabase, containerizado com Docker.
+- **[Bioteca](https://github.com/Milani02/Bioteca):** Videoteca corporativa para treinamentos, com backend Supabase.
+- **[Enterprise Chatbot - n8n](https://github.com/Milani02/enterprise-chatbot-n8n):** Orquestração de fluxos corporativos complexos com integração de APIs.
+- **[Library Cloud API](https://github.com/Milani02/library-cloud-api):** Backend em FastAPI com integração à Google Books API.
+- **[Port Scanner](https://github.com/Milani02/port-scanner):** Ferramenta em Python para análise de portas e diagnósticos de rede.
 
 ---
 
