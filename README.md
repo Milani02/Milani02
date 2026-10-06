@@ -1,63 +1,60 @@
-# 🛡️ Backend Developer | Red Team Specialist (Security-Minded)
-*"The best defense is a thorough understanding of the offense."*
+# 🤖 AI Automation Developer
+
+### n8n · Python · FastAPI · React · LLMs
+
+_I build AI-powered automations and full-stack apps that take manual, repetitive work off real businesses._
 
 ---
 
-### 👤 Sobre Mim
-Sou um desenvolvedor focado em **Backend (Python & FastAPI)** e **Automação (n8n)** com um background sólido em **Red Team**. Minha especialidade é construir aplicações de alta performance integrando conceitos de segurança ofensiva para garantir que o software seja resiliente a ataques desde a concepção.
+### 👋 About me
+
+I'm a developer focused on automation and AI integration. My daily work is designing workflows in **n8n**, building APIs with **Python / FastAPI**, and wiring **AI and LLMs** into real business processes. I use AI heavily in my own workflow to ship fast as a solo developer, and I build in public.
+
+🌍 Open to relocation and work-visa sponsorship: **Portugal and Spain** (and the wider EU).
+
+🗣️ Portuguese (native) · Spanish (intermediate) · English (professional reading and writing)
 
 ---
 
-### 📊 Estatísticas de Contribuição
+### 🧰 Tech stack
 
+**Languages:** Python, TypeScript, JavaScript, SQL
 
-![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Milani02&show_icons=true&theme=dracula)
+**Backend:** FastAPI, SQLAlchemy, REST APIs, Pydantic
 
-![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Milani02&layout=compact&theme=dracula)
+**Frontend:** React, Next.js, Tailwind CSS, Vite
 
----
+**Data and Infra:** PostgreSQL, Supabase (Auth, Realtime, RLS, pgvector), Docker
 
-### ⚔️ Arsenal Técnico
-
-**🌐 Conecte-se e Redes Sociais:**
-<p align="left">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-milani-546b34218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:andremilani992@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/andremilani_02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
-**🎨 Frontend:**
-- **Frameworks:** React, Next.js, Vite.
-- **Estilização/UI:** Tailwind CSS, shadcn/ui (Radix), Framer Motion.
-- **3D/Interativo:** Three.js (React Three Fiber).
-
-**🚀 Backend & Automação:**
-- **Linguagens:** Python, JavaScript/TypeScript (Node.js), Bash.
-- **Frameworks/Ferramentas:** FastAPI, Flask, n8n, Webhooks, RESTful APIs.
-- **Banco de Dados:** Supabase (PostgreSQL), SQLite, PostgreSQL, Redis.
-- **Infra:** Linux (Debian/Arch), Docker, Git.
-
-**🕵️ Segurança Ofensiva (Red Team Focus):**
-- **Metodologias:** OWASP Top 10, OSINT, Network Scanning.
-- **Técnicas:** Pentesting de APIs, Hardening de Servidores, Automação de Scans de Vulnerabilidade.
+**Automation and AI:** n8n, OpenAI / LLMs, RAG
 
 ---
 
-### 🎯 Projetos em Destaque
-- **[Hub Biodinâmica](https://github.com/Milani02/hub-biodinamica):** Portal central de acesso a sistemas internos e institucionais, em Next.js.
-- **[Portal do Colaborador](https://github.com/Milani02/portal-do-colaborador):** Dashboards por perfil (colaborador/gestor/RH/admin) com Supabase, containerizado com Docker.
-- **[Bioteca](https://github.com/Milani02/Bioteca):** Videoteca corporativa para treinamentos, com backend Supabase.
-- **[Enterprise Chatbot - n8n](https://github.com/Milani02/enterprise-chatbot-n8n):** Orquestração de fluxos corporativos complexos com integração de APIs.
-- **[Library Cloud API](https://github.com/Milani02/library-cloud-api):** Backend em FastAPI com integração à Google Books API.
-- **[Port Scanner](https://github.com/Milani02/port-scanner):** Ferramenta em Python para análise de portas e diagnósticos de rede.
+### 🚀 Featured projects
+
+**[sistema-ciosp](https://github.com/milani02/sistema-ciosp)**: live event-management system for a trade-show booth. QR check-in with digital badge, sales and cashier, stock control, a smart queue with auto-promotion, realtime updates, and 5 access roles. React, TypeScript, Supabase, PL/pgSQL, Docker.
+
+**[portal-do-colaborador](https://github.com/milani02/portal-do-colaborador)**: employee portal with role-based dashboards for staff, manager, HR and admin, backed by Supabase. React, Vite, Tailwind.
+
+**[enterprise-chatbot-n8n](https://github.com/milani02/enterprise-chatbot-n8n)**: corporate chatbot with backend automation orchestrated via n8n webhooks.
+
+**[Workflows-Financeiro](https://github.com/milani02/Workflows-Financeiro)**: n8n workflows for financial automation (overdue-invoice billing) and low-stock alerts.
+
+**[library-cloud-api](https://github.com/milani02/library-cloud-api)**: RESTful book-catalog API with automatic metadata import from the Google Books API. Python, FastAPI, SQLAlchemy.
+
+**[Bioteca](https://github.com/milani02/Bioteca)**: corporate video-training platform. React, TypeScript, Supabase.
 
 ---
 
-### ⚠️ Compromisso Ético
-Atuo estritamente dentro da legalidade e ética profissional. Utilizo meu conhecimento em simulação de adversários para construir defesas mais fortes e processos resilientes para empresas e parceiros.
+### 📊 GitHub stats
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Milani02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milani02&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</p>
+### 📫 Let's connect
+
+**LinkedIn:** https://www.linkedin.com/in/andremilanidev
+
+Open to opportunities across the EU.
